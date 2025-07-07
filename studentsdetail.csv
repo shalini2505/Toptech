@@ -1,0 +1,118 @@
+﻿Name,Dept,Year,Age,Gender,CGPA,Attendance,internship,Extra courses,Arrear,Location,Behaviour,Positive,Negative,Target
+Shalini,IT,3,20,Female,10,97%,Web Development and Design,Data Structures and Algorithms,0,Chennai (Capital city),Good,yes,no,0
+Agilan,IT,3,20,Male,9.9,96%,Data Analytics and Visualization,Mobile App Development with Flutter,0,Coimbatore,good,yes,no,0
+Jansi,IT,3,20,Female,9.8,58%,Mobile App Development,Machine Learning and Artificial Intelligence,2,Madurai,Good,yes,no,0
+Ammu,IT,3,20,Female,9.7,96%,Machine Learning Algorithms,Cloud Computing with AWS,1,Tiruchirappalli,Good,yes,no,0
+Jessy,IT,3,20,Female,9.6,98%,Digital Marketing Strategies,Cybersecurity Basics and Ethical Hacking,1,Salem,Good,yes,no,0
+Roja,IT,3,20,Female,9.5,98%,User Experience (UX) Design,Software Engineering Principles,1,Tirunelveli,Good,yes,no,0
+Mithra,IT,3,20,Female,9.4,89%,Financial Analysis and Reporting,Internet of Things (IoT) Development,1,Erode,Good,yes,no,0
+Bhava,IT,3,20,Female,9.3,79%,Social Media Strategy and Content Creation,Data Science with R and Python,,Vellore,Good,yes,no,0
+Nandhini,IT,3,20,Female,9.2,84,Cybersecurity and Risk Management,Data Structures and Algorithms,1,Ramanathapuram,Good,yes,no,0
+Niranjini,IT,3,20,Female,9.1,88%,Business Process Optimization,Mobile App Development with Flutter,3,Thoothukudi,Good,yes,no,0
+yogi,IT,3,20,Female,9,84%,Brand Development and Marketing,Machine Learning and Artificial Intelligence,2,Chennai (Capital city),Good,yes,no,0
+Latchya,IT,3,20,Female,8.9,95%,AI & Natural Language Processing (NLP),Cloud Computing with AWS,2,Coimbatore,Good,yes,no,0
+Harini,IT,2,19,Female,8.8,99%,Product Management and Roadmapping,Cybersecurity Basics and Ethical Hacking,1,Madurai,,yes,no,0
+Pooja,IT,2,19,Female,8.7,86%,Supply Chain and Logistics Management,Software Engineering Principles,3,Tiruchirappalli,Good,yes,no,0
+Saranya,IT,2,19,Female,8.6,87%,Healthcare Administration and Policy,Internet of Things (IoT) Development,1,Salem,,yes,no,0
+Anu,IT,2,19,Female,8.5,65%,Market Research and Consumer Behavior,Data Science with R and Python,3,Tirunelveli,Good,yes,no,0
+Madhu,IT,2,19,Female,8.4,98%,Content Strategy and SEO,Data Structures and Algorithms,1,Erode,Good,yes,no,0
+Baskar,ECE,2,19,Male,8.3,55%,"Project Management Methodologies (Agile, Scrum)",Mobile App Development with Flutter,0,Vellore,Good,yes,no,0
+Charles,ECE,3,20,Male,8.2,77%,Legal Research and Case Analysis,Machine Learning and Artificial Intelligence,0,Ramanathapuram,Good,yes,no,0
+Bharani,ECE,3,20,Male,8.1,87%,Environmental Impact and Sustainability Solutions,Cloud Computing with AWS,0,Thoothukudi,Good,yes,no,0
+Gowtham,ECE,3,20,Male,8,96%,Public Relations and Media Outreach,Cybersecurity Basics and Ethical Hacking,0,Chennai (Capital city),Good,yes,no,0
+Ameer,ECE,3,20,Male,7.9,94%,Corporate Social Responsibility (CSR) Programs,Software Engineering Principles,0,Coimbatore,Good,yes,no,0
+Jeevith,ECE,3,20,male,7.8,91%,Video Production and Editing,Internet of Things (IoT) Development,0,Madurai,Good,yes,no,0
+Hareetha,ECE,2,19,Female,7.7,81%,Human Resources and Talent Acquisition,Data Science with R and Python,0,Tiruchirappalli,Good,yes,no,0
+Preethi,IT,2,19,Female,7.6,92%,App Development for IoT (Internet of Things),Data Structures and Algorithms,0,Salem,Good,yes,no,0
+kaviya,IT,2,19,Female,7.5,93%,Cloud Computing and Infrastructure Management,Mobile App Development with Flutter,1,Tirunelveli,Good,yes,no,0
+Tamizh,IT,3,20,Female,7.4,84%,Social Entrepreneurship,Machine Learning and Artificial Intelligence,0,Erode,Good,yes,no,0
+Dhana,IT,3,20,Female,7.3,95%,Branding and Graphic Design,Cloud Computing with AWS,1,Vellore,Good,yes,no,0
+arthi,IT,2,19,Female,7.2,99%,Startup Business Development,Cybersecurity Basics and Ethical Hacking,0,Ramanathapuram,Good,yes,no,0
+Keerthi,IT,2,19,Female,7.1,95%,Strategic Marketing and Consumer Insights,Software Engineering Principles,0,Thoothukudi,Good,yes,no,0
+Rithika,ECE,3,20,Female,7,81%,Video Game Development and Design,Internet of Things (IoT) Development,0,Chennai (Capital city),Good,yes,no,0
+Mahalakshmi,ECE,3,20,Female,6.9,79%,Mobile Marketing Campaigns,Data Science with R and Python,0,Coimbatore,Good,yes,no,0
+suji,ECE,2,19,Female,6.8,76%,Medical Research and Data Collection,Data Structures and Algorithms,0,Madurai,Good,yes,no,0
+Monisha,ECE,3,20,Female,6.7,93%,Ethical Hacking and Penetration Testing,Mobile App Development with Flutter,1,Tiruchirappalli,Good,yes,no,0
+Abitha,ECE,2,19,Female,6.6,79%,Business Intelligence and Data Science,Machine Learning and Artificial Intelligence,0,Salem,Good,yes,no,0
+Lakshitha,ECE,3,20,Female,6.5,86%,Pharmaceutical Research,Cloud Computing with AWS,1,Tirunelveli,Good,yes,no,0
+Tharunika,ECE,2,19,Female,6.4,90%,Event Planning and Coordination,Cybersecurity Basics and Ethical Hacking,1,Erode,Good,yes,no,0
+Hency,ECE,3,20,Female,6.3,87%,Customer Support Systems and Tools,Software Engineering Principles,,Vellore,Good,yes,no,0
+Hansi,ECE,2,19,Female,6.2,91%,Sustainability in Business Practices,Internet of Things (IoT) Development,0,Ramanathapuram,Good,yes,no,0
+John,ECE,2,19,Male,6.1,97%,Intellectual Property (IP) Law,Data Science with R and Python,0,Thoothukudi,Good,yes,no,0
+Jane,ECE,3,20,Female,6,96%,Market Entry Strategies for New Products,Data Structures and Algorithms,0,Chennai (Capital city),Good,yes,no,0
+Michael,ECE,3,20,Male,5.9,58%,Brand Strategy and Product Positioning,Mobile App Development with Flutter,0,Coimbatore,Good,yes,no,0
+Sarah,ECE,2,19,Male,5.8,96%,Customer Experience (CX) and Service Design,Machine Learning and Artificial Intelligence,0,Madurai,Good,yes,no,0
+Emily,ECE,1,18,Female,5.7,98%,Supply Chain Optimization,Cloud Computing with AWS,0,Tiruchirappalli,Good,yes,no,0
+David,ECE,2,19,Male,5.6,98%,Health and Wellness Program Development,Cybersecurity Basics and Ethical Hacking,0,Salem,Good,yes,no,0
+Emma,ECE,1,18,Female,5.5,89%,E-Commerce Strategies and Development,Software Engineering Principles,0,Tirunelveli,Good,yes,no,0
+James,ECE,1,18,Male,5.4,79%,Financial Technology (FinTech),Internet of Things (IoT) Development,0,Erode,Good,yes,no,0
+Olivia,ECE,1,18,Female,5.3,84,Product Photography and Editing,Data Science with R and Python,0,Vellore,Good,yes,no,0
+Lucas,ECE,1,18,Male,5.2,88%,Corporate Governance and Compliance,Data Structures and Algorithms,0,Ramanathapuram,Good,yes,no,0
+Alex,ECE,1,18,Male,5.1,84%,Community Outreach and Social Services,Mobile App Development with Flutter,1,Thoothukudi,Bad,no,yes,1
+Bella,ECE,1,18,Male,5,95%,Web Development and Design,Machine Learning and Artificial Intelligence,1,Chennai (Capital city),Bad,no,yes,1
+Caleb,ECE,1,18,Female,10,99%,Data Analytics and Visualization,Cloud Computing with AWS,1,Coimbatore,Bad,no,yes,1
+Daisy,ECE,1,18,Female,9.9,86%,Mobile App Development,Cybersecurity Basics and Ethical Hacking,1,Madurai,Bad,no,yes,1
+Ethan,ECE,1,18,Male,9.8,87%,Machine Learning Algorithms,Software Engineering Principles,1,Tiruchirappalli,Bad,no,yes,1
+Fiona,ECE,1,18,Female,9.7,65%,Digital Marketing Strategies,Internet of Things (IoT) Development,1,Salem,Bad,no,yes,1
+Grace,ECE,3,20,Female,9.6,98%,User Experience (UX) Design,Data Science with R and Python,0,Tirunelveli,Bad,no,yes,1
+Henry,CSE,3,20,Male,9.5,55%,Financial Analysis and Reporting,Introduction to Mechanical Engineering,0,Erode,Bad,no,yes,1
+Isla,CSE,3,20,Female,9.4,77%,Social Media Strategy and Content Creation,Circuit Analysis and Design,0,Vellore,Bad,no,yes,1
+Jack,CSE,3,20,Male,9.3,87%,Cybersecurity and Risk Management,Thermodynamics and Fluid Mechanics,0,Ramanathapuram,Bad,no,yes,1
+Katie,CSE,3,20,Female,9.2,96%,Business Process Optimization,Structural Engineering and Materials Science,0,Thoothukudi,Bad,no,yes,1
+Liam,CSE,3,20,Male,9.1,94%,Brand Development and Marketing,Electrical Systems and Power Generation,0,Chennai (Capital city),Bad,no,yes,1
+Mia,CSE,2,19,Female,9,91%,AI & Natural Language Processing (NLP),Environmental Engineering,0,Coimbatore,Bad,no,yes,1
+Noah,CSE,2,19,Male,8.9,81%,Product Management and Roadmapping,Robotics and Automation,0,Madurai,Bad,no,yes,1
+Olivia,CSE,2,19,Female,8.8,92%,Supply Chain and Logistics Management,Control Systems Engineering,0,Tiruchirappalli,Bad,no,yes,1
+Peter,CSE,2,19,Male,8.7,93%,Healthcare Administration and Policy,Engineering Design and Prototyping,3,Salem,Bad,no,yes,1
+Quinn,CSE,2,19,Female,8.6,84%,Market Research and Consumer Behavior,Advanced Manufacturing Techniques,3,Tirunelveli,Bad,no,yes,1
+Ruby,CSE,2,19,Female,8.5,95%,Content Strategy and SEO,Introduction to Mechanical Engineering,2,Erode,Bad,no,yes,1
+Sam,CSE,2,19,Male,8.4,99%,"Project Management Methodologies (Agile, Scrum)",Circuit Analysis and Design,1,Vellore,Bad,no,yes,1
+Tina,CSE,2,19,Female,8.3,95%,Legal Research and Case Analysis,Thermodynamics and Fluid Mechanics,1,Ramanathapuram,Bad,no,yes,1
+Uriel,CSE,2,19,Male,8.2,81%,Environmental Impact and Sustainability Solutions,Structural Engineering and Materials Science,1,Thoothukudi,Bad,no,yes,1
+Victoria,CSE,2,19,Female,8.1,79%,Public Relations and Media Outreach,Electrical Systems and Power Generation,1,Chennai (Capital city),Bad,no,yes,1
+William,CSE,2,19,Male,8,76%,Corporate Social Responsibility (CSR) Programs,Environmental Engineering,0,Coimbatore,Bad,no,yes,1
+Xander,CSE,2,19,Male,7.9,93%,Video Production and Editing,Robotics and Automation,0,Madurai,Bad,no,yes,1
+Yara,CSE,2,19,Male,7.8,79%,Human Resources and Talent Acquisition,Control Systems Engineering,0,Tiruchirappalli,Bad,no,yes,1
+Zoe,CSE,2,19,Male,7.7,86%,App Development for IoT (Internet of Things),Engineering Design and Prototyping,1,Salem,Bad,no,yes,1
+Adam,CSE,2,19,Male,7.6,90%,Cloud Computing and Infrastructure Management,Advanced Manufacturing Techniques,1,Tirunelveli,Bad,no,yes,1
+Brooke,CSE,2,19,Male,7.5,87%,Social Entrepreneurship,Introduction to Mechanical Engineering,1,Erode,Bad,no,yes,1
+Sharon,CSE,1,18,Female,7.4,91%,Branding and Graphic Design,Circuit Analysis and Design,3,Vellore,Bad,no,yes,1
+Diana,CSE,1,18,Female,7.3,97%,Startup Business Development,Thermodynamics and Fluid Mechanics,2,Ramanathapuram,Bad,no,yes,1
+Ella,CSE,1,18,Female,7.2,96%,Strategic Marketing and Consumer Insights,Structural Engineering and Materials Science,2,Thoothukudi,Bad,no,yes,1
+Frank,CSE,1,18,Male,7.1,58%,Video Game Development and Design,Electrical Systems and Power Generation,1,Chennai (Capital city),Bad,no,yes,1
+Gavin,Civil,1,18,Female,7,96%,Mobile Marketing Campaigns,Environmental Engineering,0,Coimbatore,Bad,no,yes,1
+Holly,Civil,1,18,Male,6.9,98%,Medical Research and Data Collection,Robotics and Automation,1,Madurai,Bad,no,yes,1
+Ian,Civil,1,18,Female,6.8,98%,Ethical Hacking and Penetration Testing,Control Systems Engineering,0,Tiruchirappalli,Bad,no,yes,1
+Jasmine,Civil,1,18,Female,6.7,89%,Business Intelligence and Data Science,Engineering Design and Prototyping,1,Salem,Bad,no,yes,1
+Kevin,Civil,1,18,Male,6.6,79%,Pharmaceutical Research,Advanced Manufacturing Techniques,0,Tirunelveli,Bad,no,yes,1
+Lucy,Civil,1,18,Female,6.5,84,Event Planning and Coordination,Introduction to Mechanical Engineering,0,Erode,Bad,no,yes,1
+Mark,Civil,1,18,Male,6.4,88%,Customer Support Systems and Tools,Circuit Analysis and Design,0,Vellore,Bad,no,yes,1
+Natalie,Civil,1,18,,6.3,84%,Sustainability in Business Practices,Thermodynamics and Fluid Mechanics,1,Ramanathapuram,Bad,no,yes,1
+Oscar,Civil,1,18,Male,6.2,95%,Intellectual Property (IP) Law,Structural Engineering and Materials Science,1,Thoothukudi,Bad,no,yes,1
+Paige,Civil,1,18,Female,6.1,99%,Market Entry Strategies for New Products,Electrical Systems and Power Generation,,Chennai (Capital city),Bad,no,yes,1
+Ryan,Civil,1,18,Male,6,86%,Brand Strategy and Product Positioning,Environmental Engineering,0,Coimbatore,Bad,no,yes,1
+Sophia,Civil,1,18,Female,5.9,87%,Customer Experience (CX) and Service Design,Robotics and Automation,0,Madurai,Bad,no,yes,1
+Tyler,Civil,1,18,Male,5.8,65%,Supply Chain Optimization,Control Systems Engineering,0,Tiruchirappalli,Bad,no,yes,1
+Uma,Civil,1,18,Female,5.7,98%,Health and Wellness Program Development,Engineering Design and Prototyping,0,Salem,Bad,no,yes,1
+Vera,Civil,1,18,Female,5.6,55%,E-Commerce Strategies and Development,Advanced Manufacturing Techniques,0,Tirunelveli,Bad,no,yes,1
+Walter,Civil,1,18,Male,5.5,77%,Financial Technology (FinTech),Business Analytics and Decision Making,0,Erode,Bad,no,yes,1
+Xavier,Civil,1,18,Male,5.4,87%,Product Photography and Editing,Digital Marketing Strategies,0,Vellore,Bad,no,yes,1
+Yasmin,Civil,1,18,Female,5.3,96%,Corporate Governance and Compliance,Entrepreneurial Leadership,0,Ramanathapuram,Bad,no,yes,1
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
